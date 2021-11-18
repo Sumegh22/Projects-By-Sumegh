@@ -1,0 +1,6 @@
+This project is based on Core JAVA concepts
+anyone can download the project and run in on the GO.
+
+
+You have to pass in some basic parameters based on which, you either will be eligible or will not be eligible to purchase a CAR.
+The project presents an idea of How does the Dealership works Behind the curtains.
